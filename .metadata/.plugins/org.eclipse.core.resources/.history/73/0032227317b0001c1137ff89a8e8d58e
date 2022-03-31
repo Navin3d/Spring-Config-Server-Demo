@@ -1,0 +1,16 @@
+package com.rbs.sgl.simpleweb;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.context.annotation.Configuration;
+
+import lombok.Data;
+
+@Data
+@Configuration
+@ConfigurationProperties(prefix = "simple")
+public class SimpleConfigs {
+
+	private String data;
+	
+}

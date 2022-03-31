@@ -1,0 +1,5 @@
+package com.rbs.sgl.simpleweb.controllers;
+
+public class SimpleController {
+
+}

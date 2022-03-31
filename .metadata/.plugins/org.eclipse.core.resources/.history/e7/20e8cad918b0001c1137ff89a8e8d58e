@@ -1,0 +1,4 @@
+spring.profiles.active=dev
+spring.config.import=configserver:http://localhost:8012
+
+simple.data=default
