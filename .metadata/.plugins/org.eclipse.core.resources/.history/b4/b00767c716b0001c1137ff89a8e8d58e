@@ -1,2 +1,0 @@
-server.port=8012
-spring.cloud.config.git.uri=file:///D:\Programming\Java\Spring_Projects\configs-simple-web
