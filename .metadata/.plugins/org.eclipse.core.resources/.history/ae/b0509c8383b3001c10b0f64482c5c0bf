@@ -1,0 +1,6 @@
+package com.rbs.sgl.simpleweb.configs;
+
+@Configuration
+@PropertySource("encrypted.properties")
+public class AppConfigForJasyptStarter {
+}
